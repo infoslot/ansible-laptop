@@ -14,7 +14,9 @@
     - iotop
     - direnv
     - ffmpeg
+    - wireshark
     - imagemagick
+    - keepassx
     - pwgen
     - tmux
     - ubuntu-restricted-addons
