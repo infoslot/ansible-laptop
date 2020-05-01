@@ -15,10 +15,7 @@
   snap:
     name:
       - cawbird
-      - discord
       - docker
-      - mattermost-desktop
-      - spotify
       - telegram-desktop
 
 - name: Install classic snap packages
